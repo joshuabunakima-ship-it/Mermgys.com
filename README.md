@@ -1,4 +1,4 @@
-# Meri My Goal Cleaning Services
+# Meri MGYS Cleaning Services
 
 High-conversion static website for the DFW cleaning business. No build step is required.
 
