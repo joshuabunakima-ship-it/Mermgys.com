@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://merimgys.com/sitemap.xml
